@@ -9,22 +9,22 @@ https://faculty.washington.edu/kutz/582hw2.pdf
 
 Handel's music | FFT | Spectrogram by Gábor transform
 :-------------------------:|:-------------------------:|:-------------------------:
-![handelamp](https://github.com/yeewantung/AMATH-582/blob/master/hw2/images/handelamp.png)   | ![handelfreq](https://github.com/yeewantung/AMATH-582/blob/master/hw2/images/handelfreq.png) | ![gaussian](https://github.com/yeewantung/AMATH-582/blob/master/hw2/images/gaussian.png)
+![handelamp](https://github.com/yeewantung/AMATH-582---public/blob/master/hw2/images/handelamp.png)   | ![handelfreq](https://github.com/yeewantung/AMATH-582---public/blob/master/hw2/images/handelfreq.png) | ![gaussian](https://github.com/yeewantung/AMATH-582---public/blob/master/hw2/images/gaussian.png)
 
 ### Part 2: Music score extraction of *Mary had a little lamp*
 
 Music piece          | Overtones of Piano | Spectrogram by Gábor transform
 :-------------------------:|:-------------------------:|:-------------------------:
-![music1amp](https://github.com/yeewantung/AMATH-582/blob/master/hw2/images/music1amp.png) | ![music1overtone](https://github.com/yeewantung/AMATH-582/blob/master/hw2/images/music1overtone.png) | ![music1spec](https://github.com/yeewantung/AMATH-582/blob/master/hw2/images/music1spec.png)
+![music1amp](https://github.com/yeewantung/AMATH-582---public/blob/master/hw2/images/music1amp.png) | ![music1overtone](https://github.com/yeewantung/AMATH-582---public/blob/master/hw2/images/music1overtone.png) | ![music1spec](https://github.com/yeewantung/AMATH-582---public/blob/master/hw2/images/music1spec.png)
 
 Music score extracted! (Plot created by LilyPond)
-![music1score](https://github.com/yeewantung/AMATH-582/blob/master/hw2/images/music1score.png)
+![music1score](https://github.com/yeewantung/AMATH-582---public/blob/master/hw2/images/music1score.png)
 
 # Specification on files
 * Report
-  - [hw2.pdf](https://github.com/yeewantung/AMATH-582/blob/master/hw2/hw2.pdf): Report on the project
+  - [hw2.pdf](https://github.com/yeewantung/AMATH-582---public/blob/master/hw2/hw2.pdf): Report on the project
 * Source code
-  - [hw2.ipynb](https://github.com/yeewantung/AMATH-582/blob/master/hw2/hw2.ipynb): Jupyter notebook version of the code
+  - [hw2.ipynb](https://github.com/yeewantung/AMATH-582---public/blob/master/hw2/hw2.ipynb): Jupyter notebook version of the code
 * Datasets
   - Fs.npy, y.npy, handel.mat: 9 second piece of Handel's music
   - music1.wav, music2.wav: **Mary had a little lamp** played by piano and recorder

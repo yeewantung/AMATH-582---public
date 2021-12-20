@@ -7,7 +7,7 @@ https://faculty.washington.edu/kutz/582hw1.pdf
 
 FFT of Ultrasound time series | Trajectory of marble in dog's intestine
 :-------------------------:|:-------------------------:
-<img src="https://github.com/yeewantung/AMATH-582/blob/master/hw1/fft.png" width=500>   | <img src="https://github.com/yeewantung/AMATH-582/blob/master/hw1/trajectory.png" width=500>
+<img src="https://github.com/yeewantung/AMATH-582---public/blob/master/hw1/fft.png" width=500>   | <img src="https://github.com/yeewantung/AMATH-582---public/blob/master/hw1/trajectory.png" width=500>
 
 ## Specification on files
 * hw1.pdf: Report on the project

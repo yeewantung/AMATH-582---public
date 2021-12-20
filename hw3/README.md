@@ -7,13 +7,13 @@ https://faculty.washington.edu/kutz/582hw3.pdf
 
 Sqrt of Variances          | Independent leading modes of motion
 :-------------------------:|:-------------------------:
-![svd1](https://github.com/yeewantung/AMATH-582/blob/master/hw3/images/singular_value_test4.png)   | ![svd2](https://github.com/yeewantung/AMATH-582/blob/master/hw3/images/singular_vector_test4.png)
+![svd1](https://github.com/yeewantung/AMATH-582---public/blob/master/hw3/images/singular_value_test4.png)   | ![svd2](https://github.com/yeewantung/AMATH-582---public/blob/master/hw3/images/singular_vector_test4.png)
 
 ## Specification on files
 * Report
-  - [hw3.pdf](https://github.com/yeewantung/AMATH-582/blob/master/hw3/hw3.pdf): Report on the project
+  - [hw3.pdf](https://github.com/yeewantung/AMATH-582---public/blob/master/hw3/hw3.pdf): Report on the project
 * Source code
-  - [hw3.ipynb](https://github.com/yeewantung/AMATH-582/blob/master/hw3/hw3.ipynb): Jupyter notebook version of the code
+  - [hw3.ipynb](https://github.com/yeewantung/AMATH-582---public/blob/master/hw3/hw3.ipynb): Jupyter notebook version of the code
 * Datasets
   - Available at <https://faculty.washington.edu/kutz/KutzBook/KutzBook.html>
 * Images

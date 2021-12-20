@@ -7,8 +7,8 @@ https://faculty.washington.edu/kutz/582hw4.pdf
 
 ### Part 1: Eigenface analysis on Yale Faces B
 
-![eigenface](https://github.com/yeewantung/AMATH-582/blob/master/hw4/images/crop_eigenface.png)
-![eigenface2](https://github.com/yeewantung/AMATH-582/blob/master/hw4/images/crop_reconst.png)
+![eigenface](https://github.com/yeewantung/AMATH-582---public/blob/master/hw4/images/crop_eigenface.png)
+![eigenface2](https://github.com/yeewantung/AMATH-582---public/blob/master/hw4/images/crop_reconst.png)
 
 ### Part 2: Music genre classification
 
@@ -16,7 +16,7 @@ https://faculty.washington.edu/kutz/582hw4.pdf
 
 Prediction versus true class of 5-sec-music-clips by Naive Bayes
 
-![gnbpredict](https://github.com/yeewantung/AMATH-582/blob/master/hw4/images/gnb_predict.png)
+![gnbpredict](https://github.com/yeewantung/AMATH-582---public/blob/master/hw4/images/gnb_predict.png)
 
 The accuracy of Naive Bayes with cross validation is 0.9953703703703702. 
 
@@ -26,9 +26,9 @@ The accuracy of predicting test set by Naive Bayes is 0.9861111111111112.
 
 ## Specification on files
 * Report
-  - [hw4.pdf](https://github.com/yeewantung/AMATH-582/blob/master/hw4/hw4.pdf): Report on the project
+  - [hw4.pdf](https://github.com/yeewantung/AMATH-582---public/blob/master/hw4/hw4.pdf): Report on the project
 * Source code
-  - [hw4.ipynb](https://github.com/yeewantung/AMATH-582/blob/master/hw4/hw4.ipynb): Jupyter notebook version of the code
+  - [hw4.ipynb](https://github.com/yeewantung/AMATH-582---public/blob/master/hw4/hw4.ipynb): Jupyter notebook version of the code
 * Datasets
   - Yale Faces B: Available at <https://faculty.washington.edu/kutz/KutzBook/KutzBook.html>
   - Music Dataset: Not available for public use

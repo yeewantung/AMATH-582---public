@@ -12,6 +12,6 @@ FFT of Ultrasound time series | Trajectory of marble in dog's intestine
 ## Specification on files
 * hw1.pdf: Report on the project
 * hw1.ipynb: Jupyter notebook version of the code
-* hw1plot.py: Realize isosurface in python (Code provided by https://github.com/burbma/582_public/blob/6dd50649e63b2122bafdddfe2806e064d69476bf/hw_code/hw1.py)
+* hw1plot.py: Realize isosurface in python
 * fft.png: The fast Fourier transform image created by mayavi.mlab.contour3d
 * trajectory.png: The trajectory of the marble created by mplot3d toolkits
